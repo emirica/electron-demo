@@ -1,0 +1,13 @@
+{
+	"name": "electron-demo",
+	"version": "0.1.0",
+	"main": "main.js",
+	"devDependencies": {
+		"asar": "0.12.3",
+		"typescript": "2.0.10",
+		"typings": "2.0.0"
+	},
+	"dependencies": {
+		"electron": "1.4.8"
+	}
+}
